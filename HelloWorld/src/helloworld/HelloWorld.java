@@ -15,7 +15,8 @@ class HelloWorld
 public static void main (String[] args)
 {
 System.out.println("Hello world!");
-System.out.println("Here is my file for the gitHub integeration");
+System.out.println("Here is my file for the GitHub integeration");
+System.out.println("My GitHub account name is maheshmahandru");
 }
 }
 
